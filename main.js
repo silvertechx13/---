@@ -156,7 +156,7 @@ const channelInfo = {
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
             newsletterJid: '120363279142099991@newsletter',
-            newsletterName: 'SILVER-TECH',
+            newsletterName: 'SILVER',
             serverMessageId: -1
         }
     }
